@@ -7,7 +7,7 @@
 ### 📍 About Me
 - **🌒 Currently:** Learning, coding, probably having the fun of my life with LeetCode bit manipulation 🫡🔫
 - **💡 Interests:** Exploring **machine learning**, messing around with **cool simulations**, and dabbling in **high-energy physics** ⚛️
-- **🫶 C++ Enjoyer:** Wilding[Trajectory-Simulator](https://github.com/Vikt0rG/Trajectory-Simulator) of elementary particles within a *very realistic* central potential 🌚
+- **🫶 C++ Enjoyer:** Wilding [Trajectory-Simulator](https://github.com/Vikt0rG/Trajectory-Simulator) of elementary particles within a *very realistic* central potential 🌚
 
 ### 🥅 Goals
 - Build cool stuff that sparks curiosity and hopefully works 🚀🌌
